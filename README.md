@@ -203,4 +203,4 @@ hr-attrition-dashboard-powerbi/
 
 ## 👤 Author
 
-**Akanksha**
+**Akanksha Yadav**
