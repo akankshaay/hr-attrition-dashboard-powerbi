@@ -1,6 +1,6 @@
 # 📊 HR Attrition Analytics Dashboard (Power BI)
 
-**Name:** Akanksha Yadav
+**Name:** Akanksha Yadav <br>
 **Roll No:** TDS2627062
 
 ---
